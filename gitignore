@@ -1,0 +1,12 @@
+# dataset (download from Kaggle)
+creditcard.csv
+*.csv
+
+# notebooks / python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# misc
+.DS_Store
+xgb_threshold.json
