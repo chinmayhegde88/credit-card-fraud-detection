@@ -62,7 +62,6 @@ Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn.
 
 ## Acknowledgements
 - Dataset: Worldline and the Machine Learning Group of Université Libre de Bruxelles (ULB), via Kaggle.
-- [Reviewed a public Kaggle notebook on this dataset for background. The XGBoost model, KS/Gini analysis, cost-based threshold and test-set threshold comparison are my own additions.]
-
+- [Reviewed a public Kaggle notebook on this dataset for background.
 ## Author
-[Your name] · [LinkedIn] · [Email]
+[Chinmay Hegde] · [www.linkedin.com/in/chinmaych] · [chinmayhegde88@gmail.com]
