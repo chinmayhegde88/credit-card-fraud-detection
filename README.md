@@ -62,6 +62,6 @@ Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn.
 
 ## Acknowledgements
 - Dataset: Worldline and the Machine Learning Group of Université Libre de Bruxelles (ULB), via Kaggle.
-- [Reviewed a public Kaggle notebook on this dataset for background.
+- Reviewed a public Kaggle notebook on this dataset for background.
 ## Author
 [Chinmay Hegde] · [www.linkedin.com/in/chinmaych] · [chinmayhegde88@gmail.com]
